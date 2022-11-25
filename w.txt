@@ -1,5 +1,1 @@
-Wow! Are you here? 
-<<<<<<< HEAD
--NOPE!
-=======
->>>>>>> 5682705a5cd1e36558f80e58c08d20e0b5963a16
+Wow! Are you here?
