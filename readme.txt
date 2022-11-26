@@ -1,1 +1,1 @@
-welcome to the dikaya DICH!
+welcome to the DICH!
