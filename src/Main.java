@@ -1,3 +1,4 @@
+import java.util.Random;
 public class Main {
     public static void main(String[] args) {
 
@@ -25,6 +26,13 @@ public class Main {
             System.out.print(j + " ");
         }
         char[] arr = {'d','g','2'};
-        System.out.print(arr);
+        System.out.println(arr);
+
+        Random rand = new Random();
+        int r = 0;
+        while (r != 5){
+            r = rand.nextInt(6);
+            System.out.print(r);
+        }
     }
 }
