@@ -36,7 +36,6 @@ public class Main {
         while (r != 5){
             r = rand.nextInt(6);
             System.out.print(r);
-
         }
     }
 }
